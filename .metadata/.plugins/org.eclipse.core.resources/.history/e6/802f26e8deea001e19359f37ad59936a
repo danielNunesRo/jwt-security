@@ -1,0 +1,5 @@
+package com.danielnunesro.springjwt.security.jwt;
+
+public class JwtConfigurer {
+
+}
