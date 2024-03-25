@@ -1,0 +1,5 @@
+package com.danielnunesro.springjwt.exceptions.handler;
+
+public class CustomizerResponseEntityExceptionHandler {
+
+}

@@ -1,0 +1,5 @@
+package com.danielnunesro.springjwt.data.vo.security;
+
+public class AccountCredentialsVO {
+
+}
