@@ -1,0 +1,5 @@
+package com.danielnunesro.springjwt.services;
+
+public class UserServices {
+
+}

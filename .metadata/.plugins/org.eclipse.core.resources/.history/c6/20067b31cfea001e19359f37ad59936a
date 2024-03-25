@@ -1,0 +1,5 @@
+package com.danielnunesro.springjwt.repositories;
+
+public class UserRepository {
+
+}
