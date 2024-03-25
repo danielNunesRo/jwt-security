@@ -1,0 +1,10 @@
+package com.danielnunesro.springjwt.security.jwt;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class JwtTokenProvider {
+	
+	
+	
+}

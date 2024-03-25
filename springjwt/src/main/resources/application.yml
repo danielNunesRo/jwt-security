@@ -1,0 +1,23 @@
+security:
+  jwt:
+    token:
+      secret-key: 53cr37
+      expire-lenght: 3600000
+
+spring:
+  application:
+    name: springjwt
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/security
+    username: postgres
+    password: 123
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    properties:
+      hibernate:
+        show_sql: true
+
+  flyway:
+    locations: classpath:db/migration
